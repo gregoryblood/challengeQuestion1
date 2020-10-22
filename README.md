@@ -19,4 +19,6 @@ For example both the 4x4 and the 3x8 layouts have 75% (p) of the rooms on the ou
 <br/>
 Example input (p) / output (minimum rooms required):<br/>
 50 / 48
+
+Only edit core.c
 </pre>
